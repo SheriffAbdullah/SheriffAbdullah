@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SheriffAbdullah
 - 👀 I’m interested in Web Development and App Development. My mission is to learn full-stack developepment.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C, C++, C#, Python, and Java.
 - 💞️ I’m looking to collaborate on anything under the sun.
 - 📫 How to reach me -> sheriffabdullahcontact@gmail.com 
 
