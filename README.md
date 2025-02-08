@@ -1,6 +1,6 @@
 Hi, my name is Abdullah Sheriff.
 
-I am a problem-solver. I work with startup-founders on problems across ML, DBs, UI/UX, Design, Hiring, & anything that requires problem-solving. 
+I am a problem-solver. I work with startup-founders on problems across ML, DBs, UI/UX, Design, Talent consulting, & anything that requires problem-solving. 
 
 I love working on impactful projects that are at minimum useful to me, e.g. 
 * My [NoteSite](https://abdullahsheriff.vercel.app) is actively used by 500+ students at SNUC.
