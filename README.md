@@ -1,5 +1,7 @@
 Hi, my name is Abdullah Sheriff.
 
+I love data, and I am learning everything to do what a Data-Scientist does :D
+
 I am a problem-solver. I work with startup-founders on problems across ML, DBs, UI/UX, Design, Talent consulting, & anything that requires problem-solving. 
 
 I love working on impactful projects that are at minimum useful to me, e.g. 
