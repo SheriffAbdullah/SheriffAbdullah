@@ -1,13 +1,9 @@
-Hi, my name is Abdullah Sheriff.
+When the ship's burning, you call me. We got this.
 
-I love data, and I am learning everything to do what a Data-Scientist does :D
+I work with startup-founders on problems across ideation, product management, frontend, backend, data, talent acquisition, sales, event management, & firefighting.
 
-I am a problem-solver. I work with startup-founders on problems across ML, DBs, UI/UX, Design, Talent consulting, & anything that requires problem-solving. 
-
-I love working on impactful projects that are at minimum useful to me, e.g. 
-* My [NoteSite](https://abdullahsheriff.vercel.app) is actively used by 500+ students at SNUC.
-* Bronze-medal [NEET dataset](https://www.kaggle.com/datasets/abdullahshf/neet-ug-2024-results-all-india) on Kaggle.
-
+My [NoteSite](https://abdullahsheriff.vercel.app) were actively used by 1000+ students at SNUC.
+Got a couble Bronze-medals on [Kaggle](https://www.kaggle.com/abdullahshf/) on Kaggle.
 
 
 <!---
