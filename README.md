@@ -1,9 +1,9 @@
-When the ship's burning, you call me. We got this.
+Are you facing a high-stakes situation that seems unsolvable? Let's talk. 
 
 I work with startup-founders on problems across ideation, product management, frontend, backend, data, talent acquisition, sales, event management, & firefighting.
 
 My [NoteSite](https://abdullahsheriff.vercel.app) were actively used by 1000+ students at SNUC.
-Got a couble Bronze-medals on [Kaggle](https://www.kaggle.com/abdullahshf/) on Kaggle.
+[Kaggle](https://www.kaggle.com/abdullahshf/) awarded a couple of Bronze-medals.
 
 
 <!---
